@@ -71,4 +71,4 @@
 // }
 
 // const logWithLastName = createMember("Maxim");
-// console.log (logWithLastName("Zykov"));
+// console.log (logWithLastName("Zykov")); 
